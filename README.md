@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### I'm Caramajau.
 
+🌱 I’m currently learning **Software development** and **Python**.
+
 <!--
 **Caramajau/Caramajau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
