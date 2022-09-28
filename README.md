@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### I'm Caramajau.
-
+![Github licence](https://img.shields.io/badge/Profile_views-245-0e75b6?style=flat-square)
+![Github licence](https://img.shields.io/badge/Coolness-87%-0e75b6?style=flat-square)
 🌱 I’m currently learning **Software development** and **Python**.
 
 <!--
