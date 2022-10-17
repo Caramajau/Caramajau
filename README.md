@@ -4,6 +4,9 @@
 🌱 I’m currently learning **Software development** and **Python**.
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visual studio code logo" width="40" height="40"/>
+</a>
 
 <!--
 **Caramajau/Caramajau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
