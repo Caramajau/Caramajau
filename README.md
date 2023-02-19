@@ -8,7 +8,7 @@
 <a href="https://www.java.com/en/">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40"/>
 </a>
-<a href="[https://www.java.com/en/](https://en.wikipedia.org/wiki/C_(programming_language))">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/>
 </a>
 <a href="https://code.visualstudio.com">
