@@ -1,6 +1,6 @@
 ### Hi there, I'm Caramajau 👋
 
-🌱 I’m currently learning **Software development** and **C**.
+🌱 I’m currently learning **Software development** and **designing GUIs**.
 
 
 #### Languages and Tools:
@@ -19,7 +19,10 @@
 <a href="https://code.visualstudio.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visual studio code logo" width="40" height="40"/>
 </a>
-
+<!-- Figma logo -->
+<a href="https://www.figma.com">
+  <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" alt="Figma logo" width="40" height="40"/>
+</a>
 
 <!--
 **Caramajau/Caramajau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
