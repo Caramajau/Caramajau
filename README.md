@@ -1,6 +1,6 @@
 ### Hi there, I'm Caramajau 👋
 
-🌱 I’m currently learning **Software development** and **designing GUIs**.
+🌱 I’m currently learning **Software development** and about **data structures and algorithms**.
 
 
 #### Languages:
