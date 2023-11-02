@@ -1,6 +1,6 @@
 ### Hi there, I'm Caramajau 👋
 
-🌱 I’m currently learning **Software development** and about **data structures and algorithms**.
+🌱 I’m currently learning **Software development** and making an **object-oriented project**.
 
 
 #### Languages:
