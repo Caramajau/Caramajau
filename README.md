@@ -19,6 +19,10 @@
 <a href="https://www.haskell.org">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/512px-Haskell-Logo.svg.png" alt="Haskell" width="40" height="40"/>
 </a>
+<!-- C# logo -->
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="CSharp" width="40" height="40"/>
+</a>
 
 #### Tools:
 <!-- VSCode logo -->
