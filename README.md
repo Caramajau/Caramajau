@@ -37,7 +37,7 @@
 <a href="https://www.figma.com">
   <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" alt="Figma logo" width="40" height="40"/>
 </a>
-<!-- VSCode logo -->
+<!-- Scene builder logo -->
 <a href="https://gluonhq.com/products/scene-builder/">
   <img src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" alt="scenebuilder logo" width="40" height="40"/>
 </a>
