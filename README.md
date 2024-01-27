@@ -1,6 +1,6 @@
 ### Hi there, I'm Caramajau 👋
 
-🌱 I’m currently learning **Software development** and making an **object-oriented project**.
+🌱 I’m currently learning **Software development** and **Design and Construction of Digital Games** as well as **Concurrent Programming**.
 
 
 #### Languages:
