@@ -27,11 +27,11 @@
 #### Tools:
 <!-- VSCode logo -->
 <a href="https://code.visualstudio.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visual studio code logo" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code logo" width="40" height="40"/>
 </a>
 <!-- IntelliJ logo -->
 <a href="https://www.jetbrains.com/idea/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="intelliJ logo" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ logo" width="40" height="40"/>
 </a>
 <!-- Figma logo -->
 <a href="https://www.figma.com">
@@ -39,7 +39,11 @@
 </a>
 <!-- Scene builder logo -->
 <a href="https://gluonhq.com/products/scene-builder/">
-  <img src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" alt="scenebuilder logo" width="40" height="40"/>
+  <img src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" alt="Scenebuilder logo" width="40" height="40"/>
+</a>
+<!-- Visual Studio logo -->
+<a href="https://visualstudio.microsoft.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/800px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio logo" width="40" height="40"/>
 </a>
 
 <!--
