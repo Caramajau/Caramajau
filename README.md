@@ -45,7 +45,10 @@
 <a href="https://visualstudio.microsoft.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/800px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio logo" width="40" height="40"/>
 </a>
-
+<!-- Unity logo -->
+<a href="https://unity.com">
+  <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity logo" width="40" height="40"/>
+</a>
 <!--
 **Caramajau/Caramajau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
