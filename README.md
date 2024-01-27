@@ -15,6 +15,10 @@
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/>
 </a>
+<!-- Haskell logo -->
+<a href="https://www.haskell.org">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/512px-Haskell-Logo.svg.png" alt="Haskell" width="40" height="40"/>
+</a>
 
 #### Tools:
 <!-- VSCode logo -->
