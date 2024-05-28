@@ -1,6 +1,6 @@
 ### Hi there, I'm Caramajau 👋
 
-🌱 I’m currently learning **Software development** and **Design and Construction of Digital Games** as well as **Concurrent Programming**.
+🌱 I’m currently learning **Software development** and **Data Science and AI** as well as **Agile Software Project Management**.
 
 
 #### Languages:
