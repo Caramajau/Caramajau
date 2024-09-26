@@ -1,6 +1,6 @@
 ### Hi there, I'm Caramajau 👋
 
-🌱 I’m currently learning **Software development** and **Data Science and AI** as well as **Agile Software Project Management**.
+🌱 I’m currently learning **Mathematical modelling and problem solving** as well as **Digitalisation and AI in practice**.
 
 
 #### Languages:
