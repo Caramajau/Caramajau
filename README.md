@@ -31,6 +31,18 @@
 <a href="https://www.erlang.org">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Erlang_logo.svg/1168px-Erlang_logo.svg.png" alt="Erlang" width="40" height="40"/>
 </a>
+<!-- HTML logo -->
+<a href="https://www.w3.org/html/" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+</a> 
+<!-- CSS logo -->
+<a href="https://www.w3schools.com/css/" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+</a>
+<!-- Javascript logo -->
+<a href="https://www.w3.org/js/" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/330px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript" height="40" />
+</a>
 
 ### Tools:
 <!-- VSCode logo -->
