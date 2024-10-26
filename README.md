@@ -1,16 +1,24 @@
-### Hi there, I'm Caramajau 👋
+## Hi there, I'm Caramajau 👋
 
 🌱 I’m currently learning **Mathematical modelling and problem solving** as well as **Digitalisation and AI in practice**.
 
 
-#### Languages:
+### Languages:
+###### Good Knowledge
 <!-- Python logo -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
 <!-- Java logo -->
 <a href="https://www.java.com/en/">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40"/>
 </a>
+<!-- C# logo -->
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="CSharp" width="40" height="40"/>
+</a>
+
+###### Basic Knowledge
 <!-- C logo -->
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/>
@@ -19,16 +27,12 @@
 <a href="https://www.haskell.org">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/512px-Haskell-Logo.svg.png" alt="Haskell" width="40" height="40"/>
 </a>
-<!-- C# logo -->
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="CSharp" width="40" height="40"/>
-</a>
 <!-- Erlang logo -->
 <a href="https://www.erlang.org">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Erlang_logo.svg/1168px-Erlang_logo.svg.png" alt="Erlang" width="40" height="40"/>
 </a>
 
-#### Tools:
+### Tools:
 <!-- VSCode logo -->
 <a href="https://code.visualstudio.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code logo" width="40" height="40"/>
