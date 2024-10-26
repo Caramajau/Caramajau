@@ -7,7 +7,7 @@
 ###### Good Knowledge
 <!-- Python logo -->
 <a href="https://www.python.org" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
 </a> 
 <!-- Java logo -->
 <a href="https://www.java.com/en/" rel="noreferrer">
