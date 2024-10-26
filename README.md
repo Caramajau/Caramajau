@@ -43,6 +43,10 @@
 <a href="https://www.javascript.com/" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/330px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript" height="40" />
 </a>
+<!-- Typescript logo -->
+<a href="https://www.typescriptlang.org/" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" height="40">
+</a>
 
 ### Tools:
 <!-- VSCode logo -->
