@@ -1,7 +1,6 @@
 ## Hi there, I'm Caramajau 👋
 
-🌱 I’m currently learning **Mathematical modelling and problem solving** as well as **Digitalisation and AI in practice**.
-
+🌱 I’m currently learning **Software engineering: Theory and practice** as well as **Databases**.
 
 ### Languages:
 ###### Good Knowledge
@@ -46,6 +45,10 @@
 <!-- Typescript logo -->
 <a href="https://www.typescriptlang.org/" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" height="40">
+</a>
+<!-- SQL logo -->
+<a href="https://en.wikipedia.org/wiki/SQL" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" height="40">
 </a>
 
 ### Tools:
