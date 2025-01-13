@@ -14,7 +14,7 @@
 </a>
 <!-- C# logo -->
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" rel="noreferrer">
-    <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="CSharp" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="CSharp" width="40" height="40"/>
 </a>
 
 ###### Basic Knowledge
