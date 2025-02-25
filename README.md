@@ -1,6 +1,6 @@
 ## Hi there, I'm Caramajau 👋
 
-🌱 I’m currently learning **Software engineering: Theory and practice** as well as **Databases**.
+🌱 I’m currently learning about **Web applications** and doing my **Bachelor's thesis**.
 
 ### Languages:
 ###### Good Knowledge
