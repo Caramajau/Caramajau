@@ -1,6 +1,6 @@
 ## Hi there, I'm Caramajau 👋
 
-🌱 I’m currently learning about **Applied machine learning** and doing my **Bachelor's thesis**.
+🌱 I’m currently learning about **Interaction design methodology** and **Prototyping in interaction design**.
 
 ### Languages:
 ###### Good Knowledge
