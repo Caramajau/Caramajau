@@ -1,6 +1,6 @@
 ## Hi there, I'm Caramajau 👋
 
-🌱 I’m currently learning about **Interaction design methodology** and **Prototyping in interaction design**.
+🌱 I’m currently learning about **Graphical interfaces** and **Computer graphics**.
 
 ### Languages:
 ###### Good Knowledge
