@@ -1,6 +1,6 @@
-## Hi there, I'm Caramajau 👋
+## Hi there, I'm Caramajau :wave:
 
-🌱 I’m currently learning about **Graphical interfaces** and **Computer graphics**.
+I’m currently learning about **Graphical interfaces** and **Computer graphics**.
 
 ### Languages:
 ###### Good Knowledge
