@@ -50,6 +50,10 @@
 <a href="https://en.wikipedia.org/wiki/SQL" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" height="40">
 </a>
+<!-- C++ logo -->
+<a href="https://cppreference.com/" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</a>
 
 ### Tools:
 <!-- VSCode logo -->
