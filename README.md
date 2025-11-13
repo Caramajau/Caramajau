@@ -18,12 +18,12 @@ I’m currently learning about **Graphical interfaces** and **Computer graphics*
 </a>
 <!-- Typescript logo -->
 <a href="https://www.typescriptlang.org/" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40">
 </a>
 
 ###### Basic Knowledge
 <!-- C logo -->
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" rel="noreferrer">
+<a href="https://en.cppreference.com/w/c/language.html" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </a>
 <!-- Haskell logo -->
@@ -44,11 +44,11 @@ I’m currently learning about **Graphical interfaces** and **Computer graphics*
 </a>
 <!-- Javascript logo -->
 <a href="https://www.javascript.com/" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" />
 </a>
 <!-- PostgreSQL logo -->
-<a href="https://en.wikipedia.org/wiki/SQL" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40">
+<a href="https://www.postgresql.org/" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40">
 </a>
 <!-- C++ logo -->
 <a href="https://cppreference.com/" rel="noreferrer">
@@ -81,18 +81,5 @@ I’m currently learning about **Graphical interfaces** and **Computer graphics*
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity logo" width="40" height="40"/>
 </a>
 <!--
-**Caramajau/Caramajau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Github licence](https://img.shields.io/badge/Profile_views-245-0e75b6?style=flat-square)
-![Github coolness](https://img.shields.io/badge/Coolness-87/100-0e75b6?style=flat-square)
+Most logos are from Devicon, the exceptions are Visual Studio and Scenebuilder. The Devicon logo for Visual Studio is the 2019 version, while there is not a logo for Scenebuilder.
 -->
