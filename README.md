@@ -58,15 +58,15 @@
 ### Tools:
 <!-- VSCode logo -->
 <a href="https://code.visualstudio.com" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code logo" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code logo" width="40" height="40"/>
 </a>
 <!-- IntelliJ logo -->
 <a href="https://www.jetbrains.com/idea/" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ logo" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ logo" width="40" height="40"/>
 </a>
 <!-- Figma logo -->
 <a href="https://www.figma.com" rel="noreferrer">
-    <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" alt="Figma logo" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma logo" width="40" height="40"/>
 </a>
 <!-- Scene builder logo -->
 <a href="https://gluonhq.com/products/scene-builder/" rel="noreferrer">
@@ -75,10 +75,10 @@
 <!-- Visual Studio logo -->
 <a href="https://visualstudio.microsoft.com" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/800px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio logo" width="40" height="40"/>
-</a>
+</a>          
 <!-- Unity logo -->
 <a href="https://unity.com" rel="noreferrer">
-    <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity logo" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity logo" width="40" height="40"/>
 </a>
 <!--
 **Caramajau/Caramajau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
