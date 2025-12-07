@@ -50,6 +50,10 @@ I’m currently learning about **Graphical interfaces** and **Computer graphics*
 <a href="https://www.postgresql.org/" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40">
 </a>
+<!-- MATLAB logo -->
+<a href="https://www.mathworks.com/products/matlab.html" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+</a>
 <!-- C++ logo -->
 <a href="https://cppreference.com/" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
