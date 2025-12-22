@@ -55,7 +55,7 @@ I’m currently learning about **Graphical interfaces** and **Computer graphics*
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
 </a>
 <!-- C++ logo -->
-<a href="https://cppreference.com/" rel="noreferrer">
+<a href="https://isocpp.org/" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </a>
 
