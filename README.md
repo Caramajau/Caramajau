@@ -78,12 +78,12 @@ I’m currently learning about **Graphical interfaces** and **Computer graphics*
 </a>
 <!-- Visual Studio logo -->
 <a href="https://visualstudio.microsoft.com" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/800px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio logo" width="40" height="40"/>
-</a>          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio logo" width="40" height="40"/>
+</a>
 <!-- Unity logo -->
 <a href="https://unity.com" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity logo" width="40" height="40"/>
 </a>
 <!--
-Most logos are from Devicon, the exceptions are Visual Studio and Scenebuilder. The Devicon logo for Visual Studio is the 2019 version, while there is not a logo for Scenebuilder.
+Most logos are from Devicon, the exception is Scenebuilder, as there is not an icon for Scenebuilder.
 -->
