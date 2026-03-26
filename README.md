@@ -58,7 +58,11 @@ I’m currently learning about **Architectures for scale-out systems** and **Gam
 <a href="https://isocpp.org/" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </a>
-
+<!-- Dart logo -->
+<a href="https://dart.dev/" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+</a>
+          
 ### Tools:
 <!-- VSCode logo -->
 <a href="https://code.visualstudio.com" rel="noreferrer">
