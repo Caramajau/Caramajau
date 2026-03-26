@@ -1,6 +1,6 @@
 ## Hi there, I'm Caramajau :wave:
 
-I’m currently learning about **Architectures for scale-out systems** and **Game engine architecture**.
+I’m currently learning about **Advanced computer graphics** and doing an **Interaction design project**.
 
 ### Languages:
 ###### Good Knowledge
